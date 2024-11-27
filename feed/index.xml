@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="https://regalosparatodos.netlify.app/feed/" rel="self" type="application/rss+xml" />
+	<link>https://regalosparatodos.netlify.app/</link>
+	<description>Blog de regalos para todo tipo de ocasión, con información, detalles y comparativas de productos</description>
+	<lastBuildDate>Sat, 02 Dec 2023 19:43:20 +0000</lastBuildDate>
+	<language>es-AR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://regalosparatodos.netlify.app/wp-content/uploads/2023/11/Diseno-sin-titulo-20.png</url>
+	<title></title>
+	<link>https://regalosparatodos.netlify.app/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>¡Hola mundo!</title>
+		<link>https://regalosparatodos.netlify.app/hola-mundo/</link>
+					<comments>https://regalosparatodos.netlify.app/hola-mundo/#comments</comments>
+		
+		<dc:creator><![CDATA[regalosparatodos.click]]></dc:creator>
+		<pubDate>Mon, 20 Nov 2023 18:44:09 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://regalosparatodos.click/?p=1</guid>
+
+					<description><![CDATA[<p>La entrada <a href="https://regalosparatodos.netlify.app/hola-mundo/">¡Hola mundo!</a> se publicó primero en <a href="https://regalosparatodos.netlify.app"></a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://regalosparatodos.netlify.app/hola-mundo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
